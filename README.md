@@ -3,6 +3,7 @@ Web scarpping using web-connector &amp; Data Visualzation using PowerBI
 
 
 OS : Windows 10
+
 Tool : PowerBI
 
 The new coming of age tool, PowerBI has been used to demonstarte the covid-19 data.
